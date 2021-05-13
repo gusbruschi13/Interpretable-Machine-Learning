@@ -4,20 +4,12 @@
 Repositório contendo materiais de estudo sobre Explicabilidade e Interpretabilidade de Modelos de Machine Learning.
 
 
-## 📚 Artigos no Medium:
+## 📚 Artigos no Medium e Notebooks :
 
-**Título** | **Link**
------------- | ------------
-Como Interpretar um Modelo de Risco de Crédito | [Link](https://gustavobruschi13.medium.com/como-interpretar-um-modelo-de-risco-de-cr%C3%A9dito-428a42b6eac0)
+**Título** | **Link do Artigo** | **Notebook**
+------------ | ------------ | ------------
+Como Interpretar um Modelo de Risco de Crédito | [Link](https://gustavobruschi13.medium.com/como-interpretar-um-modelo-de-risco-de-cr%C3%A9dito-428a42b6eac0) | [Notebook](https://github.com/gusbruschi13/Interpretable-Machine-Learning/blob/main/01_InterpretingCreditScoringModel/InterpretCreditScoringModel.ipynb)
 
-
-## 📂 Notebooks:
-
-**Título** | **Link**
------------- | ------------
-Como Interpretar um Modelo de Risco de Crédito | [Notebook](https://github.com/gusbruschi13/Interpretable-Machine-Learning/blob/main/01_InterpretingCreditScoringModel/InterpretCreditScoringModel.ipynb)
-
-# https://gustavobruschi13.medium.com/como-interpretar-um-modelo-de-risco-de-cr%C3%A9dito-428a42b6eac0
 
 
 ## 💪🏾 Como contribuir para o projeto
